@@ -1,5 +1,8 @@
 {
-  "name": "Bảng giá Vàng bạc Hùng Hạ",
-  "description": "Bảng giá vàng Vàng bạc Hùng Hạ",
-  "requestFramePermissions": []
+  "name": "Copy of Hệ Thống Quản Lý Cảnh Sát Trật Tự (CSTT)",
+  "description": "Ứng dụng quản lý nghiệp vụ Cảnh sát trật tự tích hợp AI hỗ trợ báo cáo, OCR và theo dõi tiến độ.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
